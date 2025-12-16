@@ -1,3 +1,4 @@
 # Simple Application for Mobile Phones
 
-This repo started for he needs of an assignment for the University
+This repo is part of a University Semester assignment, that I built an Android Application that could locate nearby
+Golf pitch and provide details on the current weather.
